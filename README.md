@@ -2,7 +2,7 @@
 
 # This project is still happening. Materials have not been revised
 
-Pseudocode for NCSOM Model
+#Pseudocode for NCSOM Model
 Variables
 mj: weight vectors,  j: the number of neurons
 xi: input vectors,  i: the number of input vectors
