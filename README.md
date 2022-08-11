@@ -1,4 +1,4 @@
-#Developing Self-Organising Maps for categorical data
+# Developing Self-Organising Maps for categorical data
 
 Self-organising map, first developed by Kohonen, is a clustering method that helps to display
 very large, high-dimensional datasets in a low-dimensional space. It is a special variation of
